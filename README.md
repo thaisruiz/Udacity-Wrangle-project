@@ -9,12 +9,12 @@ The whole data is gathered from different sources on different file formats, its
 ## Install
 
 The following packages are required to run the notebook:
-•	Jupyter Notebooks
-•	Python (includes json, os, re, ...)
-•	pandas (includes numpy)
-•	requests
-•	tweepy
-•	Matplotlib
+-	Jupyter Notebooks
+-	Python (includes json, os, re, ...)
+-	pandas (includes numpy)
+-	requests
+-	tweepy
+-	Matplotlib
 
 Also, it is required to set up a Twitter Development account, to generate the Consumer key, Consumer_Secret, Access_Token and Access_Secret. Follow the directions in the “How to Apply” section from the link below:
 https://developer.twitter.com/en/docs/basics/developer-portal/overview
