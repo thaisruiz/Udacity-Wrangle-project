@@ -1,13 +1,12 @@
-README
 
-Data Wrangling of WeRateDogs
+#Data Wrangling of WeRateDogs
 
-Overview
+##Overview
 
 This project encompasses the three phases of the data wrangling process: Gathering, Assessing and Cleaning. The dataset to be wrangled, analyzed and visualized is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs.
 The whole data is gathered from different sources on different file formats, its quality and tidiness is assessed visually and programmatically, and then the data is cleaned for analysis and visualization, and finally stored.
 
-Install
+##Install
 
 The following packages are required to run the notebook:
 •	Jupyter Notebooks
@@ -20,7 +19,7 @@ The following packages are required to run the notebook:
 Also, it is required to set up a Twitter Development account, to generate the Consumer key, Consumer_Secret, Access_Token and Access_Secret. Follow the directions in the “How to Apply” section from the link below:
 https://developer.twitter.com/en/docs/basics/developer-portal/overview
 
-Sources
+##Sources
 
 |Sources|Available on|Gathered|
 |---|---|---|
@@ -29,7 +28,7 @@ Sources
 |tweet_json.txt|Twitter|Programmatically scrapped from Twitter’s API using Tweepy library|
 
 
-Files
+##Files
 
 |Files|Description|
 |---|---|
